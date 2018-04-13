@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/erayarslan/furkan/info"
+	"github.com/erayarslan/furkan-go/info"
 	"errors"
 	"strings"
 )

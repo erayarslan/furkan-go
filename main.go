@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/erayarslan/furkan/core"
+	"github.com/erayarslan/furkan-go/core"
 )
 
 func main() {
