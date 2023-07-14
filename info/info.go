@@ -14,7 +14,7 @@ var (
 var (
 	name         = "Furkan"
 	version      = "0.0.1"
-	relationship = "boşta"
+	relationship = "evli"
 )
 
 func GetVersion() string {
